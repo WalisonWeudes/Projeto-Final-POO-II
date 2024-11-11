@@ -97,3 +97,4 @@ class Cliente:
 if __name__ == "__main__":
 
     Cliente()()
+#testado
